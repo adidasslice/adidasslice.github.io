@@ -1,20 +1,24 @@
 <!DOCTYPE html>
-<html lang="zh-hans">
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<title>liujianwei48</title>
-<style>
-body{background-color:crimson;}
-</style>
+<title>bmi</title>
 </head>
 <body>
-阿弥陀佛身金色<br>
-相好光明无等伦<br>
-白毫宛转五须弥<br>
-绀目澄清四大海<br>
-光中化佛无数亿<br>
-化菩萨众亦无边<br>
-四十八愿度众生<br>
-九品咸令登彼岸<br>
+<script>
+function bmi() {
+var height = document.getElementById("height").value;
+var weight = document.getElementById("weight").value;
+var bmicompute = weight * 10000 / (height * height);
+document.getElementById("bmivalue").value = bmicompute.toString().substr(0,4);
+}
+</script>
+height<br>
+<input type="text" id="height">cm<br>
+weight<br>
+<input type="text" id="weight">kg<br>
+bmi<br>
+<input type="text" id="bmivalue"><br>
+<button onclick="bmi()">compute</button>
 </body>
 </html>
