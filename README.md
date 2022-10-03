@@ -1,5 +1,5 @@
-DJ is crazy
+DJ is さ
 
-liujianwei48 is dick
+liujianwei48 is よ
 
-dannie0929 is erotic
+dannie0929 is い
