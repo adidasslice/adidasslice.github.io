@@ -1,1 +1,1 @@
-被告人王敏犯故意杀人罪，判处死刑，剥夺政治权利终身。
+Safety, Environmental, and Regulatory Information
