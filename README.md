@@ -1,1 +1,1 @@
-thank jonathan save me from sherperd
+thank jonathan save me from shepherd
