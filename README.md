@@ -1,1 +1,1 @@
-实际上，丁杰是一个真的精神病患者！
+the best human being is japanese on earth
