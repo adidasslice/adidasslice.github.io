@@ -1,1 +1,1 @@
-DJ is American!!!
+DJ test positive for COVID-19!!!
