@@ -1,1 +1,1 @@
-DJ test positive for COVID-19!!!
+Japanese is the best on earth
