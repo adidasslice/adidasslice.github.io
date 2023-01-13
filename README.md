@@ -1,1 +1,1 @@
-Japanese is the best on earth
+DJ is American!
