@@ -1,1 +1,1 @@
-DJ is real american
+你是男的，女的哪有精神病！
