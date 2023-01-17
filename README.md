@@ -1,1 +1,1 @@
-Does dead people exist?
+Do people who are dead still exist?
