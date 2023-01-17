@@ -1,1 +1,1 @@
-time to die
+did dead people exist?
