@@ -1,1 +1,1 @@
-Do dead people exist?
+Does dead people exist?
