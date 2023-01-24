@@ -1,1 +1,1 @@
-JD+Gmail=?
+SAMSUNG+JD+Gmail=?
