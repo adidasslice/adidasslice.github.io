@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=于海波
+SAMSUNG+JD+Gmail=Communism
