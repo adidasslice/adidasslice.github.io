@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=Communism
+SAMSUNG+JD+Gmail=X79
