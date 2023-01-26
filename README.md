@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=X79
+SAMSUNG+JD+Gmail=联俄，反共，扶助民工
