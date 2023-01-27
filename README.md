@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=Itakushicha iya yo.
+SAMSUNG+JD+Gmail=や
