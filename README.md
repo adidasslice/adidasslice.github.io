@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=非张姓为王，天下共击之
+SAMSUNG+JD+Gmail=非张氏而王者,天下共击之
