@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=佛弟子曲乐恒坚信八正道
+SAMSUNG+JD+Gmail=非张姓为王，天下共击之
