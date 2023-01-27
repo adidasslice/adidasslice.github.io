@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=the only official internet website of ya
+SAMSUNG+JD+Gmail=the only official internet website of eight
