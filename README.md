@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=JAY_2007
+SAMSUNG+JD+Gmail=金丰火腿肠
