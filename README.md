@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=金丰火腿肠
+SAMSUNG+JD+Gmail=the only official website of me
