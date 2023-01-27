@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=Lucky number seven every dice I roll
+SAMSUNG+JD+Gmail=Itakushicha iya yo.
