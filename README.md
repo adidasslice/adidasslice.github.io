@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=や
+SAMSUNG+JD+Gmail=JAY_2007
