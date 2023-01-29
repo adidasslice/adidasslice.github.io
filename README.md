@@ -1,1 +1,1 @@
-SAMSUNG+JD+Gmail=8
+SAMSUNG+JD+Gmail=LMH
