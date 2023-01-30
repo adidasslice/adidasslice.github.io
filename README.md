@@ -1,1 +1,1 @@
-JD+Gmail+Samsung=mOBSCENE
+JD+Gmail=Samsung
