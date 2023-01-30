@@ -1,1 +1,1 @@
-Samsung+Gmail+MSI=Lenovo
+SAMSUNG+GMAIL+MSI=LENOVO
