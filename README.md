@@ -1,1 +1,1 @@
-Samsung+Gmail=Linux=Android=Huawei
+JD=Samsung+Gmail
