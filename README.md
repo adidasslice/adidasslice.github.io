@@ -1,1 +1,1 @@
-JD+Gmail=Samsung
+JD+Gmail+Samsung=Alipay
