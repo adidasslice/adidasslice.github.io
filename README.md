@@ -1,1 +1,1 @@
-JD=Samsung+Gmail
+JD=Apple
