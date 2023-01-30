@@ -1,1 +1,1 @@
-JD+Gmail+Samsung=BA.5
+JD+Gmail+Samsung=Silver Ranger
