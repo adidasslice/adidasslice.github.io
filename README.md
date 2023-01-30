@@ -1,1 +1,1 @@
-Samsung+Gmail=Linux
+Samsung+Gmail+MSI=Lenovo
