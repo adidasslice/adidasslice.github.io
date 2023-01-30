@@ -1,1 +1,1 @@
-JD+Gmail=Samsung
+OSRAM=Samsung
