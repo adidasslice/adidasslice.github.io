@@ -1,1 +1,1 @@
-SAMSUNG+Gmail=LINUX
+Samsung+Gmail=Linux
