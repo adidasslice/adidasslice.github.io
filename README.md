@@ -1,1 +1,1 @@
-OSRAM=Samsung
+Russia=Germany
