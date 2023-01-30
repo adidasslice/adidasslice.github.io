@@ -1,1 +1,1 @@
-JD+Gmail+Samsung=Alipay
+JD+Gmail+Samsung=Linux
