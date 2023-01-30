@@ -1,1 +1,1 @@
-Samsung+Gmail=Linux
+Samsung+Gmail=Linux=Android=Huawei
