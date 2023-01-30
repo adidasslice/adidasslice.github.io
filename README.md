@@ -1,1 +1,1 @@
-JD+Gmail+Samsung=Silver Ranger
+JD+Gmail+Samsung=China Mobile
