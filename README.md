@@ -1,1 +1,1 @@
-JD+Gmail+Samsung=Linux
+JD+Gmail=Samsung
