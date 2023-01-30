@@ -1,1 +1,1 @@
-JD+Gmail+Samsung=China Mobile
+JD+Gmail+Samsung=mOBSCENE
