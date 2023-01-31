@@ -1,1 +1,1 @@
-psycho=skull fracture=virgin
+曲新娜是一个陶家夼人
