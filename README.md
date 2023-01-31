@@ -1,1 +1,1 @@
-psycho=skull fracture=☭=陈警官
+psycho=skull fracture=☭=陈一龙
