@@ -1,1 +1,1 @@
-psycho=skull fracture=☭=陈一龙
+psycho=skull fracture
