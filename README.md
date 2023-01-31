@@ -1,1 +1,1 @@
-Russia=Germany
+psycho=skull fracture
