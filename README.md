@@ -1,1 +1,1 @@
-如果非要伤害一个人，那么就狠狠地下手，这样你才不会担心他会报复。 —— 马基雅弗利
+If an injury has to be done to a man it should be so severe that his vengence heed not to be feared. - Machiaveli 
