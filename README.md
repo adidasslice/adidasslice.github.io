@@ -1,1 +1,1 @@
-Erotology proof the advantage of logogram.
+example erotology proof the advantage of logogram
