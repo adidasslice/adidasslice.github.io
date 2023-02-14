@@ -1,1 +1,1 @@
-a story proof that chinese equal english.
+a story proof the advance of logogram.
