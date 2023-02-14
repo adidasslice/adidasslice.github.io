@@ -1,7 +1,1 @@
-YOSHIKI
-
-TUSHY
-
-PATA
-
-HIDE
+好像Q是刘的意思？
