@@ -1,1 +1,1 @@
-a story proof the advance of logogram.
+a pornography proof the advance of logogram.
