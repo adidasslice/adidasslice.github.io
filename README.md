@@ -1,1 +1,1 @@
-a typical erotology proof the advance of logogram.
+Erotology proof the advance of logogram.
