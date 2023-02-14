@@ -1,1 +1,1 @@
-好像Q是刘的意思？
+a story proof that chinese equal english.
