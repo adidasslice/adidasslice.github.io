@@ -1,1 +1,1 @@
-Erotology proof the advance of logogram.
+Erotology proof the advantage of logogram.
