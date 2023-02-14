@@ -7,5 +7,3 @@ HITO
 TUSHY
 
 PATA
-
-HEALTH
