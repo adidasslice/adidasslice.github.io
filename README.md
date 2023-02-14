@@ -1,1 +1,1 @@
-a pornography proof the advance of logogram.
+a erotology proof the advance of logogram.
