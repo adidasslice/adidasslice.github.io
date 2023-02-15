@@ -1,1 +1,1 @@
-example logogram erotology proof the advantage of logogram than alphabet
+我妈妈是我的一切
