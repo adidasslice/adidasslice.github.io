@@ -1,1 +1,1 @@
-Impossible is American
+Capitalism sucks!
