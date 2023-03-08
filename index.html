@@ -2,22 +2,16 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>bmi</title>
+<title>hungary</title>
+<style type="text/css">
+#red{width:600px;height:200px;background:red;float:top;}
+#white{width:600px;height:200px;background:white;float:top;}
+#green{width:600px;height:200px;background:green;float:top;}
+</style>
 </head>
-<script>
-function bmi() {
-var height = document.getElementById("height").value;
-var weight = document.getElementById("weight").value;
-var bmicompute = weight * 10000 / (height * height);
-document.getElementById("bmivalue").value = bmicompute.toString().substr(0,4);
-}
-</script>
-height<br>
-<input type="text" id="height">cm<br>
-weight<br>
-<input type="text" id="weight">kg<br>
-bmi<br>
-<input type="text" id="bmivalue"><br>
-<button onclick="bmi()">compute</button>
+<body>
+<div id="red"></div>
+<div id="white"></div>
+<div id="green"></div>
 </body>
 </html>
