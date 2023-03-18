@@ -1,1 +1,1 @@
-donna replace uomo
+我代表中国和俄罗斯slice合作就是为了拿冠军来的
