@@ -1,1 +1,1 @@
-forever iMac12,1
+索尼大法好
