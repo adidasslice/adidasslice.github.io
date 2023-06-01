@@ -1,1 +1,1 @@
-forever macintosh
+not for sale
